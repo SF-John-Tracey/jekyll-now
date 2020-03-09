@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: Blog Post
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+<h3>This is a demo of all styled elements in Jekyll Now.</h3>
 
 [View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
 
